@@ -240,7 +240,7 @@ z-index: var(--z-index-middle);
 grid-row: 2/3;
 grid-column: 1/2;
 background: var(--blue-800);
-transition: background 250ms, transform 250ms;
+transition:  250ms, transform 250ms;
 height: 100%;
 padding: 2.8rem 2.4rem;
 display: flex;
