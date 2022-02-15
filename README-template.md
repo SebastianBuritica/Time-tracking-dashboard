@@ -15,7 +15,7 @@
 
 ### What I learned
 
-This project was mostly guided, however I did learn a lot about how to use figma premium to get a better idea for the styling of the projects, plus I really enjoyed working with js as this will be the first project with a programming language that I will be uploading to github.
+This project was mostly guided, however I did learn a lot about how to use figma premium to get a better idea for the styling of the projects, plus I really enjoyed working with js as this will be the first project with a programming language that I will be uploading to github
 
 
 
